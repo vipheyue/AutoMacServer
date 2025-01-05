@@ -1,0 +1,12 @@
+{
+    "total_requests": 4,
+    "daily_requests": {
+        "2025-01-05": 4
+    },
+    "monthly_requests": {
+        "2025-01": 4
+    },
+    "weekly_requests": {
+        "2025-W01": 4
+    }
+}
